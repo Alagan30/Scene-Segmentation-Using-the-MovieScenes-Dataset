@@ -1,6 +1,6 @@
 # Scene-Segmentation-Using-the-MovieScenes-Dataset
 
-Steps:
+STEPS:
 
 1. Use the "Train.py" to train the model with movies data files present in the "file" folder. Make sure the files are present in the same directory of the script.
 
