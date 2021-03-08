@@ -1,6 +1,6 @@
 # Scene-Segmentation-Using-the-MovieScenes-Dataset
 
-STEPS:
+**STEPS:**
 
 1. Use the "Train.py" to train the model with movies data files present in the "file" folder. Make sure the files are present in the same directory of the script.
 
@@ -9,7 +9,7 @@ STEPS:
 3. "evaluate_sceneseg.py" is utilized to obtained the metric fuctions Mean Average Precision (mAP) and Mean Maximum IoU (mean Miou) along with other metrics.
 
 
-RESULTS OBTAINED
+**RESULTS OBTAINED**
 
 "model" file contains the trained model with the following specifications,
 
