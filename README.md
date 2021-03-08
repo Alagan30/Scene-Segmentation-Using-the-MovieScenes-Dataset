@@ -9,6 +9,8 @@ Steps:
 3. "evaluate_sceneseg.py" is utilized to obtained the metric fuctions Mean Average Precision (mAP) and Mean Maximum IoU (mean Miou) along with other metrics.
 
 
+RESULTS OBTAINED
+
 "model" file contains the trained model with the following specifications,
 
       epochs = 150, learning_rate = 1e-2, batch_size = 64
