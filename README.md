@@ -15,11 +15,11 @@ Steps:
 
 The results of the above model with the same set of training data are as shown below,
 
-Scores: {
-    "AP": 0.9002494082490906,
-    "mAP": 0.9251553371150955,
-    "Precision": 0.9293243804713711,
-    "Recall": 0.920260111684911,
-    "F1": 0.9217258403263986
-}
+      Scores: {
+          "AP": 0.9002494082490906,
+          "mAP": 0.9251553371150955,
+          "Precision": 0.9293243804713711,
+          "Recall": 0.920260111684911,
+          "F1": 0.9217258403263986
+      }
 
